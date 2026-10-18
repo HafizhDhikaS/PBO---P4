@@ -75,7 +75,7 @@ class Barang {
 
 // D. TEST: 4 Skenario Pengujian (Normal & Error)
 
-echo "<h3>=== PENGUJIAN SKENARIO KELAS BARANG ===</h3>";
+echo "<h3> PENGUJIAN SKENARIO KELAS BARANG </h3>";
 
 // Skenario 1: Pengujian Normal (Inisialisasi & Cek Data)
 echo "<h4>Skenario 1: Inisialisasi Objek dan Cek Data (Normal)</h4>";
